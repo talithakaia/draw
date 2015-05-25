@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="controls_whileUntil" id="234" inline="false" x="315" y="59">
-    <field name="MODE">WHILE</field>
+    <field name="MODE">UNTIL</field>
     <statement name="DO">
       <block type="robot_delay" id="22" inline="true">
         <value name="DELAY">
